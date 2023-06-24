@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy. Welcome to my GitHub</h1>
+<h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy</h1>
 
-<h3 align="center">Pode ficar a vontade e conheça os meus projetos!</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
 <h2 align="center">Eu sou o Tiago Desenvolvedor Front-End!</h2>
 <p>Iniciei na tecnologia em maio de 2023. Faço programação Full Stack na comunidade DevClub. Eu estou em transição de carreira para a área de tecnologia. Sou formado como Técnico em Edificações. Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI.</p>
