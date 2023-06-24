@@ -17,7 +17,7 @@ Estou em constante aprimoramento e em breve estarei adquirindo conhecimento em G
 
 Você pode entrar em contato comigo:
 E-mail: tlermy@gmail.com
-Telefone/WhatsApp: +55 13 99637-0093
+
 <!--
 **TiagoGrilloLermy/TiagoGrilloLermy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
