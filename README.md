@@ -1,10 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, welcome to my GitHub
 
-Sou Desenvolvedor Front-End 
+### Eu sou o Tiago Desenvolvedor Front-End!
+Iniciei na tecnologia em maio de 2023.<br>
+Faço programação Full Stack na comunidade DevClub.<br>
+Eu estou em transição de carreira para a área de tecnologia.<br>
+Sou formado como Técnico em Edificações. <br> Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. 
 
-Eu iniciei meus estudos em programação Full Stack no DevClub em maio de 2023.<br>
-Eu estou em transição de carreira para  área de tecnologia. Sou formado como Técnico em Edificações. <br>
-Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. 
 , adquirindo conhecimento em Front-End nas linguagens:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
