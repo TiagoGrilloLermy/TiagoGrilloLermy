@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, welcome to my GitHub</h1>
+<h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy. Welcome to my GitHub</h1>
 
 <h3 align="center">Pode ficar a vontade e conheça os meus projetos!</h3>
 
