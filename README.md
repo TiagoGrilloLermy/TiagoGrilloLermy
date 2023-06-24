@@ -1,6 +1,6 @@
-![Snake animation](https://github.com/TiagoGrilloLermy/TiagoGrilloLermy/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/TiagoGrilloLermy/TiagoGrilloLermy/blob/output/github-contribution-grid-snake.svg">
 
-
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy</h1>
 
 <h3 align="center">Welcome to my GitHub</h3>
