@@ -28,4 +28,7 @@ Você pode entrar em contato comigo:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
 
