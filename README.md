@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy</h1>
+<div align="center">![Snake animation](https://github.com/renanimpacta/renanimpacta/blob/output/github-contribution-grid-snake.svg)</div>
 
 <h3 align="center">Welcome to my GitHub</h3>
 <br>
@@ -21,4 +22,4 @@ Você pode entrar em contato comigo:
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
-![Snake animation](https://github.com/renanimpacta/renanimpacta/blob/output/github-contribution-grid-snake.svg)
+
