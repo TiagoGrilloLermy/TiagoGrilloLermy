@@ -2,8 +2,8 @@
 
 Sou Desenvolvedor Front-End 
 
-Eu iniciei meus estudos em programação Full Stack no DevClub em maio de 2023
-Eu estou em transição de carreira para  área de tecnologia. Sou formado como Técnico em Edificações. 
+Eu iniciei meus estudos em programação Full Stack no DevClub em maio de 2023.<br>
+Eu estou em transição de carreira para  área de tecnologia. Sou formado como Técnico em Edificações. <br>
 Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. 
 , adquirindo conhecimento em Front-End nas linguagens:
 
