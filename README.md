@@ -3,10 +3,10 @@
 Pode ficar a vontade e conheça os meus projetos!
 
 <h2 align="center">Eu sou o Tiago Desenvolvedor Front-End!</h2>
-Iniciei na tecnologia em maio de 2023.<br>
+<p>Iniciei na tecnologia em maio de 2023.<br>
 Faço programação Full Stack na comunidade DevClub.<br>
 Eu estou em transição de carreira para a área de tecnologia.<br>
-Sou formado como Técnico em Edificações. <br> Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. 
+Sou formado como Técnico em Edificações. <br> Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. </p>
 
 , adquirindo conhecimento em Front-End nas linguagens:
 
