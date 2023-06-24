@@ -1,5 +1,7 @@
 ### 👋 Hi there, welcome to my GitHub
 
+Pode ficar a vontade e conheça os meus projetos!
+
 ### Eu sou o Tiago Desenvolvedor Front-End!
 Iniciei na tecnologia em maio de 2023.<br>
 Faço programação Full Stack na comunidade DevClub.<br>
