@@ -1,21 +1,23 @@
 ### Hi there 👋
 
+Sou Desenvolvedor Front-End 
 
-Desenvolvedor Front-End
+Eu iniciei meus estudos em programação Full Stack no DevClub em maio de 2023
+Eu estou em transição de carreira para  área de tecnologia. Sou formado como Técnico em Edificações. 
+Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. 
+, adquirindo conhecimento em Front-End nas linguagens:
 
-Eu estou em transição de carreira para  área de tecnologia. Sou formado como Técnico em Edificações. Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI. Recentemente, iniciei meus estudos em programação Full Stack no DevClub em maio de 2023, adquirindo conhecimento em Front-End nas linguagens:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
 Estou em constante aprimoramento e em breve estarei adquirindo conhecimento em Git e Github, React, TypeScript, Node.js e SQL. 
 
 Você pode entrar em contato comigo:
-E-mail: tlermy@gmail.com
+- :e-mail: tlermy@gmail.com
 
 
 
