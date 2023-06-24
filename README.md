@@ -10,6 +10,10 @@
 <p>
 Você pode entrar em contato por e-mail:<br>
 :e-mail: tlermy@gmail.com
+
+[![Email](https://img.shields.io/badge/Email-tlermy@gmail.com-blue?style=flat-square)](mailto:your.email@example.com)
+
+  
 </p>
 <br>
 </div>
