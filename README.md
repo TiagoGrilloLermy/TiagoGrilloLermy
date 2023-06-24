@@ -2,7 +2,7 @@
 
 <h3 align="center">Welcome to my GitHub</h3>
 
-<h3 align="center">Eu sou o Tiago Desenvolvedor Front-End!</h3>
+<h3>Eu sou o Tiago Desenvolvedor Front-End!</h3>
 <p>Iniciei na tecnologia em maio de 2023. Faço programação Full Stack na comunidade DevClub. Eu estou em transição de carreira para a área de tecnologia. Sou formado como Técnico em Edificações. Anteriormente trabalhei como jardineiro atuando como PJ no regime MEI.</p>
 
 , adquirindo conhecimento em Front-End nas linguagens:
