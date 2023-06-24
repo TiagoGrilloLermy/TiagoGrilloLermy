@@ -44,6 +44,6 @@ Você pode entrar em contato por e-mail:<br>
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrilloLermy&hide_progress=true)
 </div>
 
