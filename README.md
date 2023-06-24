@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy</h1>
-<div align="center">![Snake animation](https://github.com/renanimpacta/renanimpacta/blob/output/github-contribution-grid-snake.svg)</div>
+<div align="center">
+  ![Snake animation](https://github.com/renanimpacta/renanimpacta/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <h3 align="center">Welcome to my GitHub</h3>
 <br>
