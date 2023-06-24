@@ -46,6 +46,9 @@ Você pode entrar em contato comigo:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 </div>
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
+
+</div>
 
