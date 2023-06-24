@@ -1,6 +1,8 @@
 <img src="https://github.com/TiagoGrilloLermy/TiagoGrilloLermy/blob/output/github-contribution-grid-snake.svg">
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <h1 align="center">👋 Hi there, I'm Tiago Grillo Lermy</h1>
 
 <h3 align="center">Welcome to my GitHub</h3>
@@ -49,4 +51,6 @@ Você pode entrar em contato por e-mail:<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrilloLermy&hide_progress=true)
 </div>
+
+![Snake animation](https://github.com/TiagoGrilloLermy/TiagoGrilloLermy/blob/output/github-contribution-grid-snake.svg)
 
