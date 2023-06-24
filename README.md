@@ -2,7 +2,7 @@
 
 Pode ficar a vontade e conheça os meus projetos!
 
-### Eu sou o Tiago Desenvolvedor Front-End!
+<h2 align="center">Eu sou o Tiago Desenvolvedor Front-End!</h2>
 Iniciei na tecnologia em maio de 2023.<br>
 Faço programação Full Stack na comunidade DevClub.<br>
 Eu estou em transição de carreira para a área de tecnologia.<br>
