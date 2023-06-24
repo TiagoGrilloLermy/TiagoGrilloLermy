@@ -1,4 +1,4 @@
-### 👋 Hi there, welcome to my GitHub
+<h1 align="center">👋 Hi there, welcome to my GitHub</h1>
 
 Pode ficar a vontade e conheça os meus projetos!
 
