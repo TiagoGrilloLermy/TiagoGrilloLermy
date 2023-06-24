@@ -17,7 +17,7 @@ Estou em constante aprimoramento e em breve estarei adquirindo conhecimento em G
 
 Você pode entrar em contato comigo:
 - :e-mail: tlermy@gmail.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
 
 
