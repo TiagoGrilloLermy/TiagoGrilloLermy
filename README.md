@@ -2,16 +2,19 @@
 
 <h3 align="center">Welcome to my GitHub</h3>
 <br>
-
+<div>
 <h3>👨‍💻Sou Desenvolvedor Front-End😎</h3>
 
 <p>Estou atualmente estudando programação Full Stack na comunidade DevClub🥑, dando meus primeiros passos nessa área empolgante. Minha jornada teve início em maio de 2023 e estou em plena transição de carreira para o campo da tecnologia. Sou formado como Técnico em Edificações🔨📐🏢, trazendo uma bagagem diversificada. Anteriormente, exerci a profissão de jardineiro🌱, atuando como Pessoa Jurídica no regime MEI.</p>
 <br>
 Você pode entrar em contato comigo:
 - :e-mail: tlermy@gmail.com
-
-
+<br>
+</div>
+<div>
 <h2>⚡Tecnologias</h2>
+<p>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
+<br>
 <b>- Habilidades adquiridas:</b>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -28,7 +31,7 @@ Você pode entrar em contato comigo:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
+
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,6 +45,6 @@ Você pode entrar em contato comigo:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
+</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
