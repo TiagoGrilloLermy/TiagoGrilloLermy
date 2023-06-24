@@ -20,7 +20,10 @@
 Você pode entrar em contato comigo:
 - :e-mail: tlermy@gmail.com
 
-  
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <br>
+ <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
+</div>
 
 
