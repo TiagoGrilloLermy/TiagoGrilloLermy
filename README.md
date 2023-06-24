@@ -9,7 +9,11 @@
 <br>
 <p>
 Você pode entrar em contato por:
-[![Email](https://img.shields.io/badge/Email-tlermy@gmail.com-blue?style=flat-square)](mailto:tlermy@gmail.com)
+  
+[![Email](https://img.shields.io/badge/Email-tlermy@gmail.com-blue?style=flat-square)](mailto:your.tlermy@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat-square)](mailto:your.email@example.com)
+
 
   
 </p>
