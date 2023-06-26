@@ -17,10 +17,7 @@ Você pode entrar em contato comigo por:
 [![Email](https://img.shields.io/badge/Email-tlermy@gmail.com-blue?style=flat-square)](mailto:tlermy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tiagogrillolermy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-grillo-lermy/)
-
-
-
-  
+ 
 </p>
 <br>
 </div>
@@ -41,8 +38,9 @@ Você pode entrar em contato comigo por:
 
 <br>
 <br>
+ <p>
 <b>- Habilidades em aprendizado:</b>
-<br>
+</p>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -55,7 +53,7 @@ Você pode entrar em contato comigo por:
 </div>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
 </div>
 
