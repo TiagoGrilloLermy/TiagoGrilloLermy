@@ -28,7 +28,9 @@ Você pode entrar em contato comigo por:
 <h2>⚡Tecnologias</h2>
 <p>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
 <br>
+  <p>
 <b>- Habilidades adquiridas:</b>
+  </p>
 <br>
   
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
