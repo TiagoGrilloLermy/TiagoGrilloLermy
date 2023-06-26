@@ -12,7 +12,7 @@ Estou atualmente estudando programação Full Stack na comunidade DevClub🥑, d
 </p>
 <br>
 <p>
-Você pode entrar em contato por:
+Você pode entrar em contato comigo por:
   
 [![Email](https://img.shields.io/badge/Email-tlermy@gmail.com-blue?style=flat-square)](mailto:tlermy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tiagogrillolermy/)
