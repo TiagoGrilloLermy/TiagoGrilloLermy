@@ -38,7 +38,9 @@ Fique à vontade para entrar em contato comigo, conectar-se ou saber mais sobre 
 <!-- Rodapé -->
 <div align="center">
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGrilloLermy&hide=contribs,prs)
 
 </div>
 
